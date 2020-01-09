@@ -2,4 +2,4 @@
 Hello Gits!
 My name is Jimmy Tan.
 This is my first repository for test.
-This is updateeeeee from Jimmy!
+This is update from Jimmy!
